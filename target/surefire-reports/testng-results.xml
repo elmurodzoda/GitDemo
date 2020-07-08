@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-07T04:18:34Z" name="All Test Suite" finished-at="2020-06-07T04:18:34Z" duration-ms="32">
+    <groups>
+    </groups>
+    <test started-at="2020-06-07T04:18:34Z" name="/Users/firuz/Downloads/MavenJava" finished-at="2020-06-07T04:18:34Z" duration-ms="32">
+      <class name="AppiumTest">
+        <test-method signature="IOSApp()[pri:0, instance:AppiumTest@6ae5aa72]" started-at="2020-06-07T04:18:34Z" name="IOSApp" finished-at="2020-06-07T04:18:34Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:AppiumTest@6ae5aa72]" started-at="2020-06-07T04:18:34Z" name="NativeAppAndroid" finished-at="2020-06-07T04:18:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- AppiumTest -->
+      <class name="RESTAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:RESTAPITest@6c64cb25]" started-at="2020-06-07T04:18:34Z" name="deleteTwitter" finished-at="2020-06-07T04:18:34Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:RESTAPITest@6c64cb25]" started-at="2020-06-07T04:18:34Z" name="postJira" finished-at="2020-06-07T04:18:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- RESTAPITest -->
+      <class name="SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:SeleniumTest@245b4bdc]" started-at="2020-06-07T04:18:34Z" name="BrowserAutomation" finished-at="2020-06-07T04:18:34Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementsUI()[pri:0, instance:SeleniumTest@245b4bdc]" started-at="2020-06-07T04:18:34Z" name="elementsUI" finished-at="2020-06-07T04:18:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- SeleniumTest -->
+    </test> <!-- /Users/firuz/Downloads/MavenJava -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
